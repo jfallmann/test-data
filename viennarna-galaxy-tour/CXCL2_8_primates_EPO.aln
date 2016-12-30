@@ -1,0 +1,534 @@
+CLUSTAL W (1.81) multiple sequence alignment
+
+
+homo_sapiens/1-3171        CGGGATCGATCTGGAGCTCCGGGAATTTCCCTGGCCCGGGACTCCGGGCTTTCCAGCCCC
+pan_troglodytes/1-3171     CGGGATCGATCTGGAGCTCCGGGAATTTCCCTGGCCCGGGACTCCGGGCTTTCCAGCCCC
+gorilla_gorilla/1-3171     CGGGATCGATCTGGAGCTCCGGGAATTTCCCTGGCCCGGGACTCCGGGCTTTCCAGCCCC
+pongo_abelii/1-3171        CGGGATCGATCTGGAGCTCCGGGAATTTCCCTGGCCCGGGACTCCGGGCTTTCCAGCCCC
+chlorocebus_sabaeus/1-3171 CGGGATCGATCTGGATCTCCGGGAATTTCCCTGGCCCAGGGCTCCGGGCTTTCCAGCCCC
+macaca_mulatta/1-3171      CGGGATCGATCTGGATCTCCGGGAATTTCCCTGGCCCGGGGCTCCGGGCTTTCCAGCCCC
+papio_anubis/1-3171        CGGGATCGATCTGGATCTCCGGGAATTTCCCTGGCCCGGGGCTCCGGGCTTTCCAGCCCC
+                           *************** ********************* ** *******************
+
+
+homo_sapiens/1-3171        AACCATGCATAAAAGGGGTTCGCCGTTCTCGGAGAGCCACAGAGCCCGGGCCACAGGCAG
+pan_troglodytes/1-3171     AACCATGCATAAAAGGGGTTCGCCGTTCTCGGAGAGCCACAGAGCCCGGGCCACAGGCAG
+gorilla_gorilla/1-3171     AGCCATGCATAAAAGGGGTTCGCCGTTCTCGGAGAGCCACAGAGCCCGGGCCACAGGCAG
+pongo_abelii/1-3171        AACCATGCATAAAAGGGGTTCGCCGTTCTCGGAGAGCCACAGAGCCCGGGCCACAGGCAG
+chlorocebus_sabaeus/1-3171 AGCCATGCATAAAAGGGGTTCACCATGCTCAGAGAGCCACAGAGCCCAGGCCACAAGCAG
+macaca_mulatta/1-3171      AGCCATGCATAAAAGGAGTTCACCATGCTCAGAGAGCCACAGAACCCAGGCCACAAGCAG
+papio_anubis/1-3171        AGCCATGCATAAAAGGGGTTCACCATGCTCACAGAGCCACAGAGCCCAGGCCACAAGCAG
+                           * ************** **** ** * ***  *********** *** ******* ****
+
+
+homo_sapiens/1-3171        CTCCTTGCCAGCTCTCC---TCCTCGCACAGCCGCTCGAACCGCCTGCTGAGCCCCATGG
+pan_troglodytes/1-3171     CTCCTTGCCAGCTCTCC---TCCTCGCACAGCCGCTCGAACCGCCTGCTGAGCCCCATGG
+gorilla_gorilla/1-3171     CTCCTTGCCAGCTCTCC---TCCTCGCACAGCCGCTCGAACCGCCTGCTGAGCCCCATGG
+pongo_abelii/1-3171        CTCCTTGCCAGCTCTCC---TCCTCGCACAGCCGCTCGAACCGCCTGCTGAGCCCCATGG
+chlorocebus_sabaeus/1-3171 CTCCCTGCCAGCTCTCCCTCTCATCGCACAGCCGCCCGAAACGCCTGCTGAGCCCCATGG
+macaca_mulatta/1-3171      CTCCCTGCCAACTCTCCCTCTCCTCGCACAGCCGCCCGAAACGCCTGCTGAGCCCCATGG
+papio_anubis/1-3171        CTCCCTGCCAGCTCTCCCTCTCCTCGCACAGCCGCCCGAAACGCCTGCTGAGCCCCATGG
+                           **** ***** ******   ** ************ **** *******************
+
+
+homo_sapiens/1-3171        CCCGCGCCACGCTCTCCGCCGCCCCCAGCAATCCCCGGCTCCTGCGGGTGGCGCTGCTGC
+pan_troglodytes/1-3171     CCCGCGCCACGCTCTCCACCGCTCCCAGCAATCCCCGGGTCCTGCGGGTGGCGCTGCTGC
+gorilla_gorilla/1-3171     CCCACGCCGCGCTCTCCGCAGCCCCCAGCAATCCCCGGCTCCTGCGGGTGGCGCTGCTGC
+pongo_abelii/1-3171        CCCGCGCCGCGCTCTCCGCCGCCCCCAGCAATCCCCGGCTTCTGCGGGTGGCGCTGCTGC
+chlorocebus_sabaeus/1-3171 CCTCCCCAGCTCTCTCCACCGCCCCTAGCAATCTCCGGCTCCTGCGGGTGGCGCTGCTGC
+macaca_mulatta/1-3171      CCTCCCCCGCTCTCTCCACCGCCCCTAGCAATCTCCGGCTCCTGCGGGTGGCGCTGCTGC
+papio_anubis/1-3171        CCTCCCCCGCTCTCTCCACCACCCCTAGCAATCTCCGGCTCCTGCGGGTGGCGCTGCTGC
+                           **  * *  * ****** *  * ** ******* **** * *******************
+
+
+homo_sapiens/1-3171        TCCTGCTCCTGGTGGCCGCCAGCCGGCGCGCAGCAGGTGGGTCCCGGCGCCCTGGGGTCC
+pan_troglodytes/1-3171     TCCTGCTCCTGGTGGCCGCCGGCCGGCGCGCAGCAGGTGGGTCCCGGCGCCCTGGGGTCC
+gorilla_gorilla/1-3171     TCCTGCTTCTGGTGGCCGCCGGCCGGCGCGCAGCAGGTGGGTCCCGGCGCCCTGGGGTCC
+pongo_abelii/1-3171        TCCTGCTTCTGGTGGCCGCTGGCCGGCGCGCAGCAGGTGGGTCCCGACGCCCTAGGGTCC
+chlorocebus_sabaeus/1-3171 TTCTGCTCCTGGTGGCCGCCAGCCGGCGCGCAGCAGGTAGGTCCCGGAGCCCTGGGGTCC
+macaca_mulatta/1-3171      TTCTGCTCCTGGTGGCCGCCAGCCGGCGCGCAGCAGGTGGGTCCCGGAGCCCTGGGGTCC
+papio_anubis/1-3171        TTCTGCTCCTGGTGGCCGCCAGCCGGCGCGCAGCAGGTGGGTCCCGGAGCCCTGGGGTCC
+                           * ***** ***********  ***************** *******  ***** ******
+
+
+homo_sapiens/1-3171        CCGGGCCGGACGCGGCTGGGGTGGGCGCCCCGCGCCGACAGCCCCGCTCAATCAGCGAGT
+pan_troglodytes/1-3171     CCGGGCCGGACGCGGCTGGGGTGGGCGCCCAGCGCCAACAGCCCCGCTCAATCAGCGAGT
+gorilla_gorilla/1-3171     ACGGGCCGGACGCGGCTGGGGTGGGCGCCCCGCGCCGACAGCCCCGCTCAATCAGCGAGT
+pongo_abelii/1-3171        CCGGGCCGGACGCAGCTGGGGTGGGCGCCCCGCGCCGACAGCCCCGCTCAATCAGCGAGT
+chlorocebus_sabaeus/1-3171 CCGCGCCGGAAGCGGCTGGGATGGGCGCCCGGCGCCGACAGCCACGCTCAATCAACGAGT
+macaca_mulatta/1-3171      CCGGGCCGGAAGCGGCTGGGATGGGCGCCCGGCGCCGACAGCCCCGCTCAATCAACGAGT
+papio_anubis/1-3171        CCGGGCCGGAAGCGGCTGGGATGGGCGCCTGGCGCCGACAGCCCCGCTCAATCAACGAGT
+                            ** ****** ** ****** ********  ***** ****** ********** *****
+
+
+homo_sapiens/1-3171        CTCTTCTTCCCTAGGAGCGCCCCTGGCCACTGAACTGCGCTGCCAGTGCTTGCAGACCCT
+pan_troglodytes/1-3171     CTCTTCTTCCCTAGGAGCGCCCCTGGCCACTGAACTGCGCTGCCAGTGCTTGCAGACCCT
+gorilla_gorilla/1-3171     CTCTTCTTCCCTAGGAGCGCCCCTGGCCACTGAACTGCGCTGCCAGTGCTTGCAGACCCT
+pongo_abelii/1-3171        CTCTTCTTCCCTAGGAGCGCCCCTGGCCACTGAACTGCGCTGCCAGTGCTTGCAGACCCT
+chlorocebus_sabaeus/1-3171 CTCTTCTTTCCTAGGAGCGTCCCTGGTCACTGAACTGCGCTGCCAGTGCTTGCAGACCCT
+macaca_mulatta/1-3171      CTTTTCTTCCCTAGGAGCGCCCCTGGTCACCGAACTGCGCTGCCAGTGCTTGCAGACCCT
+papio_anubis/1-3171        CTCTTCTTCCCTAGGAGCGTCCCTGGTCACTGAACTGCGCTGCCAGTGCTTGCAGACCCT
+                           ** ***** ********** ****** *** *****************************
+
+
+homo_sapiens/1-3171        GCAGGGAATTCACCTCAAGAACATCCAAAGTGTGAAGGTGAAGTCCCCCGGACCCCACTG
+pan_troglodytes/1-3171     GCAGGGAATTCACCTCAAGAACATCCAAAGTGTGAAGGTGAAGTCCCCCGGACCCCACTG
+gorilla_gorilla/1-3171     GCAGGGAATTCACCTCAAGAACATCCAAAGTGTGAAGGTGAAGTCCCCAGGACCCCACTG
+pongo_abelii/1-3171        GCAGGGAATTCACCTCAAGAACATCCAAAGTGTGAATGTGAAGTCCCCCGGACCCCACTG
+chlorocebus_sabaeus/1-3171 GCACGGAATTCACCCCAAGAACATCCAAAGTGTGAATGTGAAGGCCCCAGGACCCCACTG
+macaca_mulatta/1-3171      GCACGGAATTCACCCCAAGAACATCCAAAGTGTGAATGTGAAGGCCCCAGGACCCCACTG
+papio_anubis/1-3171        GCACGGAATTCACCCCAAGAACATCCAAAGTGTGAATGTGAAGGCCCCAGGACCCCACTG
+                           *** ********** ********************* ****** **** ***********
+
+
+homo_sapiens/1-3171        CGCCCAAACCGAAGTCATGTAAGTCTCGCCCATCGCTGCCGCTGCCACTGCTGGGGTCCC
+pan_troglodytes/1-3171     CGCCCAAACCGAAGTCATGTAAGTCTCGCCCATCGCTGCCGCTGCCACCGCTGGGGTCCC
+gorilla_gorilla/1-3171     CGCCCAAACCGAAGTCATGTAAGTCCCGCCCCGCGCTGCCGCTGCCACCGCTGGGGTCCC
+pongo_abelii/1-3171        CGCCCAAACCGAAGTCATGTAAGTCTCTCCCATCGCTGCCGCTGCCACCGCTGGGGTCCC
+chlorocebus_sabaeus/1-3171 CGCCCAAACCGAAGTCATGTAAGTCTGGCCAATCGCTGCCGCTGTCACCGCCGGGGTCCC
+macaca_mulatta/1-3171      CGCCCAAACCGAAGTCATGTAAGTCTGGCCAATCGCTGCCGCTGTCACCGCCGGGGTCCC
+papio_anubis/1-3171        CGCCCAAACCGAAGTCATGTAAGTCTGGCCAATCGCTGCCGCTGTCACCGCCGGGGTCCC
+                           *************************   **   *********** *** ** ********
+
+
+homo_sapiens/1-3171        CGACTCTCCCGCTGCC--------------------------------------------
+pan_troglodytes/1-3171     CGACTCTCCCGCTGCC--------------------------------------------
+gorilla_gorilla/1-3171     CGACTCTCCCGCTGCCCCAACCCTGTCCCCAGCCCGACCTCGTGTCTCACGGAATTCCCT
+pongo_abelii/1-3171        CGACTCTCCCGCTGCC--------------------------------------------
+chlorocebus_sabaeus/1-3171 CTACTCTCCCGCTGCC--------------------------------------------
+macaca_mulatta/1-3171      CGACTCTCCCGCTGCC--------------------------------------------
+papio_anubis/1-3171        CGACTCTCCCGCTGCC--------------------------------------------
+                           * **************                                            
+
+
+homo_sapiens/1-3171        ------------------------------------------------------------
+pan_troglodytes/1-3171     ------------------------------------------------------------
+gorilla_gorilla/1-3171     TCTCTCTGCAGAGCCACACTCAAGAATGGGCAGAAAGCTTGTCTCAACCCCGCATCCCCC
+pongo_abelii/1-3171        ------------------------------------------------------------
+chlorocebus_sabaeus/1-3171 ------------------------------------------------------------
+macaca_mulatta/1-3171      ------------------------------------------------------------
+papio_anubis/1-3171        ------------------------------------------------------------
+                                                                                       
+
+
+homo_sapiens/1-3171        ------------------------------------------------------------
+pan_troglodytes/1-3171     ------------------------------------------------------------
+gorilla_gorilla/1-3171     ATGGTTCAGAAAATCATCGAAAAGATACTGAACAAGTGAGTTGTAATTTCCATATACACA
+pongo_abelii/1-3171        ------------------------------------------------------------
+chlorocebus_sabaeus/1-3171 ------------------------------------------------------------
+macaca_mulatta/1-3171      ------------------------------------------------------------
+papio_anubis/1-3171        ------------------------------------------------------------
+                                                                                       
+
+
+homo_sapiens/1-3171        ------------------------------------------------------------
+pan_troglodytes/1-3171     ------------------------------------------------------------
+gorilla_gorilla/1-3171     GGAGACTGGAGCCGTTGGTCAGAAATACTGGCGTCTGCCCCCTAAAAATAAAATCAGGGA
+pongo_abelii/1-3171        ------------------------------------------------------------
+chlorocebus_sabaeus/1-3171 ------------------------------------------------------------
+macaca_mulatta/1-3171      ------------------------------------------------------------
+papio_anubis/1-3171        ------------------------------------------------------------
+                                                                                       
+
+
+homo_sapiens/1-3171        ------------------------------------------------------------
+pan_troglodytes/1-3171     ------------------------------------------------------------
+gorilla_gorilla/1-3171     ACCCCAAGAGTTAGCTGAAGGACTAGAAATTGTGATTATTATTTTCACAATTAAAGTTGC
+pongo_abelii/1-3171        ------------------------------------------------------------
+chlorocebus_sabaeus/1-3171 ------------------------------------------------------------
+macaca_mulatta/1-3171      ------------------------------------------------------------
+papio_anubis/1-3171        ------------------------------------------------------------
+                                                                                       
+
+
+homo_sapiens/1-3171        ------------------------------------------------------------
+pan_troglodytes/1-3171     ------------------------------------------------------------
+gorilla_gorilla/1-3171     CATTAAGGTTATTAATCTGCTCTGGTGCCAGAGGATATTTCAGTATTTCAGTGTCCTCCA
+pongo_abelii/1-3171        ------------------------------------------------------------
+chlorocebus_sabaeus/1-3171 ------------------------------------------------------------
+macaca_mulatta/1-3171      ------------------------------------------------------------
+papio_anubis/1-3171        ------------------------------------------------------------
+                                                                                       
+
+
+homo_sapiens/1-3171        ------------------------------------------------------------
+pan_troglodytes/1-3171     ------------------------------------------------------------
+gorilla_gorilla/1-3171     TTTCCAGGCCTAACCCCTGGGAGGGTAAATGTGGGTTTCTAGAATACTAAGTAGATTTGA
+pongo_abelii/1-3171        ------------------------------------------------------------
+chlorocebus_sabaeus/1-3171 ------------------------------------------------------------
+macaca_mulatta/1-3171      ------------------------------------------------------------
+papio_anubis/1-3171        ------------------------------------------------------------
+                                                                                       
+
+
+homo_sapiens/1-3171        ------------------------------------------------------------
+pan_troglodytes/1-3171     ------------------------------------------------------------
+gorilla_gorilla/1-3171     CTAACAATGCCAAAATGCCCCCTGCCTGTTTTGGGACGTTTACCTCAGTCCCTAATGGGC
+pongo_abelii/1-3171        ------------------------------------------------------------
+chlorocebus_sabaeus/1-3171 ------------------------------------------------------------
+macaca_mulatta/1-3171      ------------------------------------------------------------
+papio_anubis/1-3171        ------------------------------------------------------------
+                                                                                       
+
+
+homo_sapiens/1-3171        ------------------------------------------------------------
+pan_troglodytes/1-3171     ------------------------------------------------------------
+gorilla_gorilla/1-3171     TTCAGACCTGAAAAATGCAATGTCTGGTTTGGGCACTTTGGGCCTGTAAGCCTTCTTGGT
+pongo_abelii/1-3171        ------------------------------------------------------------
+chlorocebus_sabaeus/1-3171 ------------------------------------------------------------
+macaca_mulatta/1-3171      ------------------------------------------------------------
+papio_anubis/1-3171        ------------------------------------------------------------
+                                                                                       
+
+
+homo_sapiens/1-3171        ------------------------------------------------------------
+pan_troglodytes/1-3171     ------------------------------------------------------------
+gorilla_gorilla/1-3171     GAAGAGCAGAAACTTTGCAGTGACACCTTCAGTGAGTTCAAGGCTAGGATCCCTGTCAAC
+pongo_abelii/1-3171        ------------------------------------------------------------
+chlorocebus_sabaeus/1-3171 ------------------------------------------------------------
+macaca_mulatta/1-3171      ------------------------------------------------------------
+papio_anubis/1-3171        ------------------------------------------------------------
+                                                                                       
+
+
+homo_sapiens/1-3171        ------------------------------------------------------------
+pan_troglodytes/1-3171     ------------------------------------------------------------
+gorilla_gorilla/1-3171     ATTATTTAATCTCTTTGAGCTTTAGCAAAATAGGGTAGATAATGGTAGTTATTTCATAGG
+pongo_abelii/1-3171        ------------------------------------------------------------
+chlorocebus_sabaeus/1-3171 ------------------------------------------------------------
+macaca_mulatta/1-3171      ------------------------------------------------------------
+papio_anubis/1-3171        ------------------------------------------------------------
+                                                                                       
+
+
+homo_sapiens/1-3171        ------------------------------------------------------------
+pan_troglodytes/1-3171     ------------------------------------------------------------
+gorilla_gorilla/1-3171     GTTGTGCACAGCTTAAGGGAGATCATGAATGGAAATTTCTAACCCAATGTGACAATCAGT
+pongo_abelii/1-3171        ------------------------------------------------------------
+chlorocebus_sabaeus/1-3171 ------------------------------------------------------------
+macaca_mulatta/1-3171      ------------------------------------------------------------
+papio_anubis/1-3171        ------------------------------------------------------------
+                                                                                       
+
+
+homo_sapiens/1-3171        ------------------------------------------------------------
+pan_troglodytes/1-3171     ------------------------------------------------------------
+gorilla_gorilla/1-3171     GACCAATATGTTTTGGCTTTTTCAAACCAAGAATCTAGTTGAGTCCACAGCCACCTCNNN
+pongo_abelii/1-3171        ------------------------------------------------------------
+chlorocebus_sabaeus/1-3171 ------------------------------------------------------------
+macaca_mulatta/1-3171      ------------------------------------------------------------
+papio_anubis/1-3171        ------------------------------------------------------------
+                                                                                       
+
+
+homo_sapiens/1-3171        ------------------------------------------------CCAAACCCTGTC
+pan_troglodytes/1-3171     ------------------------------------------------CCAAACCCTGTC
+gorilla_gorilla/1-3171     NNNNNNNCTGCCGCTGCCACCGCTGGGGTCCCCAACTCTCCCGCTGCCCCAAACCCTGTC
+pongo_abelii/1-3171        ------------------------------------------------CCAAACCCTGTC
+chlorocebus_sabaeus/1-3171 ------------------------------------------------CCA-ACCCTGTC
+macaca_mulatta/1-3171      ------------------------------------------------CCA-ACCCTGTC
+papio_anubis/1-3171        ------------------------------------------------CCA-ACCCTGTC
+                                                                           *** ********
+
+
+homo_sapiens/1-3171        CTCAGCCCGACCTCCTGTCTCACGAGATTCCCTTCTCTCTGCAGAGCCACACTCAAGAAT
+pan_troglodytes/1-3171     CTCAGCCCGACCTCCTGTCTCACGAGATTCCCTTCTCTCTGCAGAGCCACACTCAAGAAT
+gorilla_gorilla/1-3171     CTCAGCCCGACCTCCTGTCTCACGAGATTCCCTTCTCTCTGCAGAGCCACACTCAAGAAT
+pongo_abelii/1-3171        CTCAGCCCGACCTCCTGTCTCACGAGATTCCCTTCTCTCTGCAGAGCCACACTCAAGAAT
+chlorocebus_sabaeus/1-3171 CTCAGCCTGACCTCCTGTCTCACGAGATTCCGTTCTCTCTGCAGAGCCACACTCAAGAAT
+macaca_mulatta/1-3171      CTCAGCCTGACCTCCTGTCTCACGAGATTCCGTTCTCTCTGCAGAGCCACACTCAAGAAT
+papio_anubis/1-3171        CTCAGCCTGACCTGCTGTCTCACGAGATTCCGTTCTCTCTGCAGAGCCACACTCAAGAAT
+                           ******* ***** ***************** ****************************
+
+
+homo_sapiens/1-3171        GGGCAGAAAGCTTGTCTCAACCCCGCATCGCCCATGGTTAAGAAAATCATCGAAAAGATG
+pan_troglodytes/1-3171     GGGCAGAAAGCTTGTCTCAACCCCACATCGCCCATGGTTAAGAAAATCATCGAAAAGATG
+gorilla_gorilla/1-3171     GGGCAGAAAGCCTGTCTCAACCCCGCATCGCCCATGGTTAAGAAAATCATCGAAAAGATG
+pongo_abelii/1-3171        GGGCAGAAAGCTTGTCTCAACCCCGCATCCCCCATGGTTAAGAAAATCATCGAAAAGATG
+chlorocebus_sabaeus/1-3171 GGGCAGAAAGCTTGTCTCAACCCCGCATCCCCCATGGTTCAGAAAATCATCGAAAAGATA
+macaca_mulatta/1-3171      GGGCAGAAAGCTTGTCTCAATCCCGCATCCCCCATGGTTAAGAAAATCATCGGAAAGATG
+papio_anubis/1-3171        GGGCAGAAAGCTTGTCTCAATCCCGCATCCCCCATGGTTAAGAAAATCATCGGAAAGATG
+                           *********** ******** *** **** ********* ************ ****** 
+
+
+homo_sapiens/1-3171        CTGAAAAAGTAAGTTATAATTTCCATGTACACAGGCGACTGGAGCTGTTGGTCAGAAA-T
+pan_troglodytes/1-3171     CTGAAAAAGTAAGTTATAATTTCCATGTACACAGGCGACTGGAGCTGTTGGTCAGAAA-T
+gorilla_gorilla/1-3171     CTGAAAAAGTAAGTTATAATTTCCATGTACACAGGCGACTGGAGCTGTTGGTCAGAAA-T
+pongo_abelii/1-3171        CTGAAAAAGTAAATTATAATTTCCATGTACACAGGCGACTGGAGCTGTTGGTCAGAAA-T
+chlorocebus_sabaeus/1-3171 CTGAACAAGTGAGTTGTAATTTCCATGTACACAGGCGACAGGAGCCGTTGGTCAGAAG-T
+macaca_mulatta/1-3171      CTGAACAAGTGAGTTGTAATTTCCATGTACACAGGCGACAGGAGCCGTTGGTCAGAAATT
+papio_anubis/1-3171        CTGAACAAGTGAGTTGTAATTTCCATGTACACAGGCGACAGGAGCCGTTGGTCAGAAA-T
+                           ***** **** * ** *********************** ***** ***********  *
+
+
+homo_sapiens/1-3171        ACTGGCGTCTGCCCCCTAAAAAGTAAATCAGGAAAACCCA-GGGTTAGCTGCAGGACTGA
+pan_troglodytes/1-3171     ACTGGCGTCTGCCCCCTAAAAAGTAAATCAGGAAAACCCA-GGGTTAGCTGCAGGAATGA
+gorilla_gorilla/1-3171     ACTGGCGTCTGCCCCCTAAAAAGTAAATCAGGAAAACCCA-GGGTTAGCTGCAGGACTGA
+pongo_abelii/1-3171        ACTAGCTTCTGCCCCCTAAAAAGTAAATCAGGAAAACCCAAGGGTCAGCTGCAGGATTGA
+chlorocebus_sabaeus/1-3171 ACCGGCATCTGTTCCCTAAAAAGTAAATCAGGAAAACCCAAGGGTTAGCTGCAGGACTGA
+macaca_mulatta/1-3171      ACCGGCATCTGTTCCCTAAAAAGTCAATCAGGAAAACCCAAGAGTTAGCTGCAGGACTGA
+papio_anubis/1-3171        ACCGGCATCTGTTCCCTAAAAAGTCAATCAGGAAAACCCAAGGGTTAGCTGCAGGACTGA
+                           **  ** ****  *********** *************** * ** ********** ***
+
+
+homo_sapiens/1-3171        AAAAATTATTATTTTCACAAAGTTGCCATTAAGGTTATTAATCTGTTCTGGTGCCAGAGG
+pan_troglodytes/1-3171     AAAAATTATAATTTTCACAAAGTTGCCATTAAGGTTATTAATCTGCTCTGGTGCCAGAGG
+gorilla_gorilla/1-3171     AAAAATTATTATTTTCACAAAGTTGCCATTAAGGTTATTAATCTGCCCTGGTGCCAGAGG
+pongo_abelii/1-3171        AAAAATTATTATTTTCACAAAGTTGCCATTAAGGTTATTAGTCTGCTCTGGTGCTAGAGG
+chlorocebus_sabaeus/1-3171 AAAAATTA---TTTTCACAAAGTTGCCATTAAGGTTATTAATCTGCGTTGGTGCCAGAGG
+macaca_mulatta/1-3171      AAAAATTATAATTTTCACAAAGTTGCCATTAAGGTTATTAATCTGCGTTGGTGCCAGAGG
+papio_anubis/1-3171        AAAAATTATAATTTTCACAAAGTTGCCATTAAGGTTATTAATCTGCGTTGGTGCCAGAGG
+                           ********   ***************************** ****   ****** *****
+
+
+homo_sapiens/1-3171        ATATTCCCAGTGCCCAGGGTCACCACCCAGGTTCTTCCCTCCTGCCAGTGAATGTAGGTA
+pan_troglodytes/1-3171     ATAATCCCAGTGCCCAGGGTCACCACCCAGGTTCTTCCCTCCTGCCAGTGAATGTAGGTA
+gorilla_gorilla/1-3171     ATATTCCCAGTGCCCAGGGTCACCACCCAGGTTCTTCCCTCCTGCCAGTGAATGTAGGTA
+pongo_abelii/1-3171        ATA-TCCCAGTGCCNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+chlorocebus_sabaeus/1-3171 ATATTCCCAGTGCCGGGGGTCACCACCCAGGTTCTTCCCTCGTTTTAGCCAATGTAGATA
+macaca_mulatta/1-3171      ATATTCCCAGTGCCGGGGGTCACCACCCAGGTTCTTCCCTCGTTTTAGCCAATGTAGATA
+papio_anubis/1-3171        ATATTCCCAGTGTCGGGGGTCACCACCCAGGTTCTTCCCTCGTTTTAGCCAATGTAGATA
+                           *** ******** *                                              
+
+
+homo_sapiens/1-3171        AAACTGCTTTCATGTAAGGTCTCATTGGAGTTTGCCAGTTGTGCTGAAGTGTTTTCCACC
+pan_troglodytes/1-3171     AAACTGCTTTCATATAAGGTCTCATTGGAGTATGCCAGTTGTGCTGAAGTGTTTTCTACC
+gorilla_gorilla/1-3171     AAACTGCTTTCATGTAAGGTCTCATTGGAGTTTGCCAGCTGTGCTGAAGTGTTTTCCACC
+pongo_abelii/1-3171        NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+chlorocebus_sabaeus/1-3171 AAACTGCTTTCATGAAACTTCTCATTGAAGTTTGCCGGTTGTGCTGAAGTGTTTCCCACC
+macaca_mulatta/1-3171      AAACTGCTTTCATGAAACTTCTCATTGAAGTTTGCCGGTTGTGCTGGAGTGTTTCCCACC
+papio_anubis/1-3171        AAACTGCTTTCATGAAACTTTTCATTGAAGTTTGCCGGTTGTGCTGAAGTGTTTCCCACC
+                                                                                       
+
+
+homo_sapiens/1-3171        TGTTAAA-AAACACAA--------------------------------------------
+pan_troglodytes/1-3171     TGTTAAA-AAACACAA--------------------------------------------
+gorilla_gorilla/1-3171     TGTTAAA-ATACACAA--------------------------------------------
+pongo_abelii/1-3171        NNNNNNN-NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+chlorocebus_sabaeus/1-3171 TGTTAAAAAAACACAG--------------------------------------------
+macaca_mulatta/1-3171      TGTTAAA-AAACACAG--------------------------------------------
+papio_anubis/1-3171        TGTTAAA-AAACACAG--------------------------------------------
+                                                                                       
+
+
+homo_sapiens/1-3171        ------------------------------GCTTCATTTCCCCTAGTTCCTACTGACTTT
+pan_troglodytes/1-3171     ------------------------------GCTTCATTTCCCCTAGTTCCTACTGACTTT
+gorilla_gorilla/1-3171     ------------------------------GCTTCATTTCCCCTAGTTCCCACTGACTTT
+pongo_abelii/1-3171        NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+chlorocebus_sabaeus/1-3171 ------------------------------GCTTCATTTCCCCTAGTTCCTACTGAACTT
+macaca_mulatta/1-3171      ------------------------------GCTTCATTTCCCCTAGTTCCTACTGAACCT
+papio_anubis/1-3171        ------------------------------GCTTCATTTCCCCTAGTTCCTACTGAACTT
+                                                                                       
+
+
+homo_sapiens/1-3171        CAGACCTGAAAAGCAGACCCCCTGGTT-TTTTGTAAAAGTTTAGGGTTGAAGTGCAGAGA
+pan_troglodytes/1-3171     CAGACCTGAAAAGCAGACCCCCTGGTT-TTTTGTAAAAGTTTAGGGTTGAAGTGCAGAGA
+gorilla_gorilla/1-3171     CAGACCTGAAAAGCAGACCCCCTGGTT-TTTTGTAAAAGTTTAGGGTTGAAGTGCAGAGA
+pongo_abelii/1-3171        NNNNNNNNNNNNNNNNNNNNNNNNNNN-NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+chlorocebus_sabaeus/1-3171 CAGACCTGAAAAGCAGATCCTCTGGTT-TTTTGTAAAAGTTTAGGGATGAAGTGCAGAGA
+macaca_mulatta/1-3171      CAGACCTGAAAAGCAGATCCTCTGTTTTTTTTGTAAAAGTTTAGGGATGAAGTGCAGAGA
+papio_anubis/1-3171        CAGACCTGAAAAGCAGATCCTCTGGTT-TTTTGTAAAAGTTTAGGGATGGAGTGCAGAGA
+                                                                                       
+
+
+homo_sapiens/1-3171        TTTCACAATAATATTGCACTGGGTATATAACTGGTTGCCACCA--CCTATTAGC-CATGT
+pan_troglodytes/1-3171     TTTCACAGTAATATTGCACTGGGTATATATCTGGTTGCCACCA--CCTATTAGC-CATGT
+gorilla_gorilla/1-3171     TTTCACAATAATATTGCACTGGGTGTATGTCTGGTTGCCACCA--CCTATTAGC-CATGT
+pongo_abelii/1-3171        NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNGTTGCCACCCACCCTATAAGCCCATGT
+chlorocebus_sabaeus/1-3171 TTTCACAATGATATTGCACTGGGTACATATCTGGTTGCCACCA--CCTATTAGC-CATGT
+macaca_mulatta/1-3171      TTTCACAATGATATTGCACTGGGTACATATCTGGTTGCCACCA--TCTATTAGC-CATGT
+papio_anubis/1-3171        TTTCACAATGATATTGCACTGGGTACATATCTGGTTGCCACCA--CATATTAGC-CATGT
+                                                            *********     *** *** *****
+
+
+homo_sapiens/1-3171        C-ACTCAGAGACAATATTATTTAGTTTATCTGA-GACTCAGCAAAACAGGGAAAA--TAA
+pan_troglodytes/1-3171     C-ACTCAGAGACAGTATTATTTAGTTTATCTGA-GACTCAGCAAAACAGGGAAAA--TAA
+gorilla_gorilla/1-3171     C-ACTCAGAAACAATATTATTTAGTTTATCTGA-GACTCAGCAAAACAGGGAAAA--TAA
+pongo_abelii/1-3171        CAACTCAAAGACAGTATTAT-TAGGTTATCTGAGGACTCAGCAAAACAGGGAAAAATAAA
+chlorocebus_sabaeus/1-3171 C-ACTCAAAGATAAT---ATTTAGTTTATCTCA-GACTCAGCAAAACAGGGAAAA--TAG
+macaca_mulatta/1-3171      C-ACTCAAAGACAATATTATTTAGTTTATCTCA-GACTCAGCAAAACAGGGAAAA--TAG
+papio_anubis/1-3171        C-ACTCAAAGACAATATTATTTAGTTTATCTCA-GACTCAGCAAAACAGGGAAAA--TAG
+                           * ***** * * * *   ** *** ****** * *********************   * 
+
+
+homo_sapiens/1-3171        TGGTAGCT-ACATCATGAGGTTGCTTTGAGG--CTCAAGTGAG-GCCCAGTATGACAAAG
+pan_troglodytes/1-3171     TGGTAGCT-ACATCATGAGGTTGCTTTGAGG--CTTAAGTGAG-GCCCAGTATGACAAAG
+gorilla_gorilla/1-3171     TGGTAGCT-ACATCATGAGGTTGCTTTGAGG--CTTAAGTGAG-GCCCAGTATGACAAAG
+pongo_abelii/1-3171        TGGTAGGTAACATCATGAGGTTGCTTTGAGGGCTTTAAATGAGGGCCCAGTATGACAAAG
+chlorocebus_sabaeus/1-3171 TGGTAGCT-ACATCATGAGGTTGCTTTGAGG--CTTAAGTGAG-GCCCAGTATGAGAAAG
+macaca_mulatta/1-3171      TGGTAGCT-ACATCATGAGGTTGCTTTGAGG--CTTAAGTGAG-GCCCAGTATGAGAAAG
+papio_anubis/1-3171        TGGTAGCT-ACATCATGAGGTTGCTTTGAGG--CTTAAGTGAG-GCCCAGTATGAGAAAG
+                           ****** * **********************   * ** **** *********** ****
+
+
+homo_sapiens/1-3171        AGCAATAGGCTCTGGCTGTTTTAGCCAGTAAAACAGTGTAGACTGCCACTCCTCCACC-C
+pan_troglodytes/1-3171     AGCAATAGGCTCTGGCTGTTTTAGCCAGTAAAACAGTGTAGACTGCCACCCCTCCACC-C
+gorilla_gorilla/1-3171     AGCAATAGGCTCTGGCTGTTTTAGCCAGTAAAACAGTGTAGACTGCCACCCCTCCACC-C
+pongo_abelii/1-3171        AGCAATAGGCTCTGGCTGTTTAGCCCAGTAAAACAGTGTAGACTGCCACCCCTCCACCCC
+chlorocebus_sabaeus/1-3171 AGCAATAGGCTCTGGCTGTTTTAGCGAGTAATACAGTGGAGACTGCCGCCCCCGTCC--C
+macaca_mulatta/1-3171      AGCAATAGGCTCTGGCTGTTTTAGCGAGTAATACAGTGGAGACTGCCGCCCCCGCCC--C
+papio_anubis/1-3171        AGCAATAGGCTCTGGCTATTTCAGCGAGTAATACAGTGGAGACTGCTGGGCCCGCCC--C
+                           ***************** ***   * ***** ****** *******    **    *  *
+
+
+homo_sapiens/1-3171        CACGTCACCCCCATTCCTAAAAGAGCATCCCAAGCCTAGAGGTCCTTGCCACACAGCACA
+pan_troglodytes/1-3171     CACGTCACCCCCATTCCTAAAAGAGCATCCCAAGCCTAGAGGTCCTTGCCACACAGCACA
+gorilla_gorilla/1-3171     CACGTCACCCCCATTCCTAAAAGAGCATCCCAAGCCTAGAGGTCCTTGCCACACAGCACA
+pongo_abelii/1-3171        CACCTCACCCCCATTCCTAAAAGAGCATCCCAAGCCTAGAGGTTCTTGCCACACAGCACA
+chlorocebus_sabaeus/1-3171 CA----ACCCCCATTCCTA-------------AGCCTAGAGGTCCTTGCCACACAGCACA
+macaca_mulatta/1-3171      CA----ACCCCCATTCCTA-------------AGCCTAGAGGTCCTTGCCACACAGCACA
+papio_anubis/1-3171        CA----ACCCCCATTCCTA-------------AGCCTAGAGGTCCTTGCCACACAGCACA
+                           **    *************             *********** ****************
+
+
+homo_sapiens/1-3171        GCTGTCACAGGCAGTACCCACTTGGGTGCCAGGCTGGGGAAACTGCATTCAGAAAACTCT
+pan_troglodytes/1-3171     GCTGTCACAGGCAGTACCCACTTGGGTGCCAGACTGGGGAAACTGCATTAAGAAAACTCT
+gorilla_gorilla/1-3171     GCTGTCACAGGCAGTATCCACTTGGATGCCAGGCTGGGGAAACTGCATTCAGAAAACTCT
+pongo_abelii/1-3171        GCTGTCACAGGCAGTAGCCACTTGGGTGCCAGGCTGTGGAAACTGCATTCAGAAAACTCT
+chlorocebus_sabaeus/1-3171 GCTATCACAGGCAGTAGCCGCTTGGGTGCCAGGCTGGGGAAACTGCATTCAGAAAACTCT
+macaca_mulatta/1-3171      GCTATCACAGGCAGTAGCCGCTTGGGTGCCAGGCTGGGGAAACTGCATTCAGAAAACTCT
+papio_anubis/1-3171        GCTATCACAGGCAGTAGCCGCTTGGGTGCCAGGCTGGGGAAACTGCATTCAGAAAACTCT
+                           *** ************ ** ***** ****** *** ************ **********
+
+
+homo_sapiens/1-3171        AGAGCCTGGGGAAACAGGACAGGAGAAGACTGTTGTGCAGTCAGCTTTCCTGAGCACCTA
+pan_troglodytes/1-3171     AGAGCCTGGGGAAACAGGACAGGAGAAGACTGTTGTGCAGTCAGCTTTCCTGAGCACCTA
+gorilla_gorilla/1-3171     AGAGCCTGGGGAAACAGGACAGGAGAAGACTGTTGTGCAGTCAGCTTTCCTGAGCACCTA
+pongo_abelii/1-3171        AGAGCCTGGGGAAACAGGACAGGAGAAGAGTGTTGTGCAGTCAGCTTTCCTGAGCACCTA
+chlorocebus_sabaeus/1-3171 AGAGTCTGGGGAAACAGGACAGGAGAAGAGTGTTGTGCAATCAGCTTTCCTGAGCACCTA
+macaca_mulatta/1-3171      AGAGTCTGGGGAAACAGGACAGGAGAAGAGTGTTGTGCAATCAGCTTTCCTGAGCACCTA
+papio_anubis/1-3171        AGAGTCTGGGGAAACAGGACAGGAGAAGAGTGTTGTGCAATCAGCTTTCCTGAGCACCTA
+                           **** ************************ ********* ********************
+
+
+homo_sapiens/1-3171        CTCAGGGCACCCATTTTCTCATTACAGTGGCAAATCCAACTGACCAGAAGGAAGGAGGAA
+pan_troglodytes/1-3171     CTCAGGGCACCCATTTTCTCATTACAGTGGCAAATCCAACTGACCAGAAGGAAGGAGGAA
+gorilla_gorilla/1-3171     CTCAGGGCACCCATTTTCTCATTACAGTGGCAAATCCAACTGACCAGAAGGAAGGAAGAA
+pongo_abelii/1-3171        CTCAGGGCACCCATTTTCTCATTACAGTGGCAAATCCAACTGACCAGAAGGAAGGAGGAA
+chlorocebus_sabaeus/1-3171 CTCAGGGCACCCATTTTCTCATTACAGTGGCAAATCCAACTGACCAGAAGGAAGGAGGAA
+macaca_mulatta/1-3171      CTCAGGGCACCCATTTTCTCATTACAGTGGCAAATCCAACTGACCAGAAGGAAGGAGGAA
+papio_anubis/1-3171        CTCAGGGCACCCATTTTCTCATTACAGTGGCAAATCCAACTGACCAGAAGGAAGGAGGAA
+                           ******************************************************** ***
+
+
+homo_sapiens/1-3171        GCTTATTGGTGGCTGTTCCTGAAGGAGGCCCTGCCCTTACAGGAACAGAAGAGGAAAGAG
+pan_troglodytes/1-3171     GCTTATTGGTGGCTGTTCCTGAAGGAGGCCCTGCCCTTACAGGAACAGAAGAGGAAAGAG
+gorilla_gorilla/1-3171     GCTTATTGGTGGCTGTTCCTGAAGGAGGCCCTGCCCTTACAGGAACAGAAGAGGAAAGAG
+pongo_abelii/1-3171        GATCATTGGTGGCTGTTCCTGAAGGAGGCCCTGCCCTTGTAGGAACAGAAGAGGAAAGAG
+chlorocebus_sabaeus/1-3171 GCTCATTGGTGGCTGTTCCTGGAGGCGGCGCTGCCCTTACAGAAACAGAAGAGGAAAGAG
+macaca_mulatta/1-3171      GCTCATTGGTGGCTGTTCCTGGAGGCGTAGCTGCCCTTACAGAAACAGAAGAGGAAAGAG
+papio_anubis/1-3171        GCTCATTGGTGGCTGTTCCTGGAGGCGTGGCTGCCCTTACAGAAACAGAAGAGGAAGGAG
+                           * * ***************** *** *   ********  ** ************* ***
+
+
+homo_sapiens/1-3171        AGACACAGCTGCAGAGGCCACCTGGATTGCGCCTAATGTGTTTGAGCATCACTTAGGAGA
+pan_troglodytes/1-3171     AGACACAGCTGCAGAGGCCACCTGGATTGCGCCTAATGTGTTTGAGCATCACTTAGGAGA
+gorilla_gorilla/1-3171     AGACACAGCTGCAGAGGCTACCTGGATTGCGCCTAATGTGTTTGAGCATCACTTAGGAGA
+pongo_abelii/1-3171        AGACACAGCTGCAGAGGCCACCTGGATTACGCCTAATGTGTTTGAGCATCGCTTAGGAGA
+chlorocebus_sabaeus/1-3171 AGACACAGCTGCAGAGGCCACCTGGATTGAGCCTAATGTGTTTGAGCATTGTTCAGGAGA
+macaca_mulatta/1-3171      AGACTCAGCTGCAGAGGCCACCTGGATTGAGCCTAATGTGTTTGAGCATTGCTCAGGAGA
+papio_anubis/1-3171        AGACTCAGCTGCAGAGGCCACCTGGATTGAGCCTAATGTGTTTGAGCATTGCTCAGGAGA
+                           **** ************* *********  *******************   * ******
+
+
+homo_sapiens/1-3171        AGTCTTCTATTTATTTATTTAT----TTATTTATTTGTTTGTTTTAGAAGATTCTATGTT
+pan_troglodytes/1-3171     AGTCTTCTATTTATTTAT--------TTATTTATTTGTTTGTTTTAGAAGATTCTATGTT
+gorilla_gorilla/1-3171     AGTCTTCTATTTATTTAT--------TTATTTATTTGTTTGTTTTAGAAGATTCTATGTT
+pongo_abelii/1-3171        AGTCTTCTATTTATTTAT----TTATTTATTTATTTGTTTGTTTTAGAAGATTGTATGTT
+chlorocebus_sabaeus/1-3171 AGTCTTCTATTTATTTAT--------TTATTTATTTGTTTCTTTTAGAAGATTCTATGTT
+macaca_mulatta/1-3171      AGTCTTCTATTTATTTAT--------TTATTTGTTTGTTTCTTTTAGAAGATTCTATGTT
+papio_anubis/1-3171        AGTCTTCTATTTATTTAT--------TTATTTGTTTGTTTCTTTTAGAAGATCCTATGTT
+                           ******************        ****** ******* ***********  ******
+
+
+homo_sapiens/1-3171        AATATTTTATGTGTAAAATAAGGTTATGATTGAATCTACTTGCACACTCTCCCATTATAT
+pan_troglodytes/1-3171     AATATTTCATGTGTAAAATAAGGTTATGATTGAATCTACTTGCACACTCTCCCATTATAT
+gorilla_gorilla/1-3171     AATATTTTATGTGTAAAATAAGGTTATGATTGAATCTACTTGCACACTCTCCCATTATAT
+pongo_abelii/1-3171        AATATTTTACATGTAAAATAAGGTTATGATTGAATCTACTTGCACTCTCTCCCATTGTAT
+chlorocebus_sabaeus/1-3171 AATATTTTACATGTAAAATAAGGTTATGATTGAATCTACTTGCACACTCTCCCATTATAT
+macaca_mulatta/1-3171      AACATTTTACGTGTAAAATAAGGTTATGATTGAATCTACTTGCACACTCTCCCATTATAT
+papio_anubis/1-3171        AATATTTTACGTGTAAAATAAGGTTATGATTGAATCTACTTGCACACTCTCCCATTATAT
+                           ** **** *  ********************************** ********** ***
+
+
+homo_sapiens/1-3171        TTATTGTTTATTTTAGGTCAAACCCAAGTTAGTTCAATCCTGATTCATATTTAATTTGAA
+pan_troglodytes/1-3171     TTATTGTTTATTTTAGGTCAAACCCAAGTTAGTTCAATCCTGATTCATATTTAATTTGAA
+gorilla_gorilla/1-3171     TTATTGTTTATTTTAGGTCAAACCCAAGTTAGTTCAATCCTGATTCATATTTAATTTGAA
+pongo_abelii/1-3171        TTATTGTGTATTTTAGGTCAAACCCAAGTTAGTTCAATCCTGATTCATGTTTAATTTGAA
+chlorocebus_sabaeus/1-3171 TTATTGTTTATTTTATGTCAAACCCAAGTTAGTTCAATCCTGATTCATATTTAATTTGAA
+macaca_mulatta/1-3171      TTATTGTTTATTTTATGTTAAACTCAAGTTAGTTCAATCCTGATTCATATTTAATTTGAA
+papio_anubis/1-3171        TTATTGTTTATTTTATGTTAAACCCAAGTTAGTTCAATCCTGATTCATATTTAATTTGAA
+                           ******* ******* ** **** ************************ ***********
+
+
+homo_sapiens/1-3171        GATAGAAGGTTTGCAGATATTCTCTAGTCATT-TGTTAATATTTCTTCGTG-ATGACATA
+pan_troglodytes/1-3171     GATAGAAGGTTTGCAGATATTCTCTAGTCATT-TGTTAATATTTCTTCGTG-ATGACATA
+gorilla_gorilla/1-3171     GATAGAAGGTTTGCAGATATTCTCTAGTCATT-TGTTAATATTTCTTCGTG-ATGACATA
+pongo_abelii/1-3171        GATAGAAGGTTTGCAGATATTCTCTAGTCGTTATGTTAATATTTCTTAGTG-ATGACATA
+chlorocebus_sabaeus/1-3171 GGTAGAAGGTTTGCAGATATTCTCTAGTCATTATGGTAATATTTCTGAGTGGATGACATA
+macaca_mulatta/1-3171      GGTAGAAGGTTTGCAGATATTCTCTAGTCATTATGTTAATATTTCTGAGTGGATGACATA
+papio_anubis/1-3171        GGTAGAAGGTTTGCAGATATTCTCTAGTCATTATGTTAATATTTCTGAGTGGATGACATA
+                           * *************************** ** ** **********  *** ********
+
+
+homo_sapiens/1-3171        TCACATGTCAGCCACTGTGATAGAGGCTGAGGAATCCAAGAAAATGGCCAGTGAGATCAA
+pan_troglodytes/1-3171     TCACATGTCAGCCACTGTGATAGAGGCTGGGGAATCCAAGAAAATGGCCAGTGAGATCAA
+gorilla_gorilla/1-3171     TCACATGTCAGCCACTGTGATAGAGGCTGGGGAATCCAAGAAAATGGCCAGTGAGATCAA
+pongo_abelii/1-3171        TCACATGTCAGCCACTGTGATAGAGGCTGAGGAATCCAAGAAAATGGCCAGTGAGATCAA
+chlorocebus_sabaeus/1-3171 TCACATGTCAGCCACTGTGATAGAGGCTGGGGGATCCAAGAAAATGGCCAGTGAGATCAA
+macaca_mulatta/1-3171      TCAAACGTCAGCCACTGTGATAGAGGCTGGGGGATCCAAGAAAATGGCCAGTGAGATCAA
+papio_anubis/1-3171        TCAAATGTCAGCCACTGTGATAGAGGCTGGGGGATCCAAGAAAATGGCCAGTGAGATCAA
+                           *** * *********************** ** ***************************
+
+
+homo_sapiens/1-3171        TGTGACGGCAGGGAAATGTATGTGTGTCTATT-TTGTAACTGTAAAGATGAATGTCAGTT
+pan_troglodytes/1-3171     TGTGACGGCAGGGGAATGTATGTGTGTCTATT-TTGTAACTGTAAAGATGAATGTCAGTT
+gorilla_gorilla/1-3171     TGTGACGGCAGGGGAATGTATGTGTGTCTGTT-TTGCAACTGTAAAGATGAATGTCAGTT
+pongo_abelii/1-3171        TGTGAAGGCAGGGGAATGTATGTGTGTCTATTTTTGTAACTGTAAAGATGAATGTCAGTT
+chlorocebus_sabaeus/1-3171 TGTGAGGGCAGGGGAATGTATGTGTATATATTTTTGTAACTGTAAAGATGAATGTCAGTT
+macaca_mulatta/1-3171      TGTGAGGGCAGGGGAATGTATGTGTATCTATTTTTGTAACTGTAAAGATGAATGTCAGTT
+papio_anubis/1-3171        TGTGAGGGCAGGGGAATGTATGTGTATCTATTTTTGTAACTGTAAAGATGAATGTCAGTT
+                           ***** ******* *********** * * ** *** ***********************
+
+
+homo_sapiens/1-3171        GTTATTTATTGAAATGATTTCACAGTGTGTGGTCAACATTTCTCATGTTGAAGCTTTAAG
+pan_troglodytes/1-3171     GTTATTTATTGAAATGATTTCACAGTGTGTGGTCAACATTTCTCATGTTGAAGCTTTAAG
+gorilla_gorilla/1-3171     GTTATTTATTGAAATGATTTCACAGTGTGTGGTCAACATTTCTCATGTTGAAGCTTTAAG
+pongo_abelii/1-3171        GTTATTTATTGAAATGATTTCACAGTGTGTGGTCAACATTTCTCATGTTGAAGCTTTAAG
+chlorocebus_sabaeus/1-3171 GTTATTTATTGAAATGATTTCACAGGGTGTGGTCAACATTTCTCATGTTGAAGCTTTAAG
+macaca_mulatta/1-3171      GTTATTTATTGAAATGATTTCACAGAGTGTGGTCAACATTTCTCATGTTGAAGCTTTAAG
+papio_anubis/1-3171        GTTATTTATTGAAATGATTTCACAGGGTGTGGTCAACATTTCTCATGTTGAAGCTTTAAG
+                           ************************* **********************************
+
+
+homo_sapiens/1-3171        AACTAAAATGTTCTAAATATCCCTTGGACATTTTATGTCTTTCTTGTAAGGCATACTGCC
+pan_troglodytes/1-3171     AACTAAAATGTTCTAAATATCCCTTGGACATTTTATGTCTTTCTTGTAAGGCATACTGCC
+gorilla_gorilla/1-3171     AACTAAAATGTTCTAAATATCCCTTGGACATTTTATGTCTTTCTTGTAAGGCATACTGCC
+pongo_abelii/1-3171        AACTAAAATGTTCTAAATATCCCTTGGACATTTTATGTCTTTCTTGTAAGGCATACTGCC
+chlorocebus_sabaeus/1-3171 AACTAAAATGTTCTAAATATCCCTTGGACATTTTATGTCTTTCTTGTAAGGCATACTGCC
+macaca_mulatta/1-3171      AACTAAAATGTTCTAAATATCCCTTGGACATTTTATGTCTTTCTTGTAAGGCATACTGCC
+papio_anubis/1-3171        AACTAAAATGTTCTAAATATCCCTTGGACATTTTATGTCTTTCTTGTAAGGCATACTGCC
+                           ************************************************************
+
+
+homo_sapiens/1-3171        TTGTTTAATGTTAATTATGCAGTGTTTCCCTCTGTGTTAGAGCAGAGAGGTTTCGATATT
+pan_troglodytes/1-3171     TTGTTTAATGTTAATTATGCAGTGTTTCCCTCTGTGTTAGAGCAGAGAGGTTTCGATATT
+gorilla_gorilla/1-3171     TTGTTTAATGTTAATTATGCAGTGTTTCCCTCTGTGTTAGAGCAGAGAGGTTTCGATATT
+pongo_abelii/1-3171        TTGTTTAATGTTAATTATGCAGTGTTTCCCTCTGTGTTAGAGCAGAGAGGTTTCGATATT
+chlorocebus_sabaeus/1-3171 TTGTTTAATGTTAATTATGCAGTGTTTCTCTCTGTGTTAGAACAGAGAGGTTTCAATATT
+macaca_mulatta/1-3171      TTGTTTAATGTTAATTATGCAGTGTTTCCCTCTGTGTTAGAACAGAGAGGTTTCGATATT
+papio_anubis/1-3171        TTGTTTAATGTTAATTATGCAGTGTTTCCCTCTGTGTTAGAACAGAGAGGTTTCGATATT
+                           **************************** ************ ************ *****
+
+
+homo_sapiens/1-3171        TATTGATGTTTTCACAAAGAACAGGAAAATAAAATATTTAAAAATATAAAA
+pan_troglodytes/1-3171     TATTGATGTTTTCACAAAGAACAGGAAAATAAAATATTTAAAAATATAAAA
+gorilla_gorilla/1-3171     TATTGATGTTTTCACAAAGAACAGGAAAATAAAATATTTAAAAATATAAAA
+pongo_abelii/1-3171        TATTGATGTTTTCACAAAGAACAGGAAAATAAAATATTTAAAAATATAAAA
+chlorocebus_sabaeus/1-3171 TATCGATGTTTTCACAAAGAACAAGAAAATAAAATATTTAAAAATATAAAA
+macaca_mulatta/1-3171      TATTGATGTTTTCACAAAGAACAAGAAAATAAAATATTTAAAAATATAAAA
+papio_anubis/1-3171        TATTGATGTTTTCACAAAGAACAAGAAAATAAAATATTTAAAAATATAAAA
+                           *** ******************* ***************************
+
+
+
